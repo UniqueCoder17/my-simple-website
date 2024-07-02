@@ -1,5 +1,14 @@
+h3 {
+    color: red;
+    text-decoration: solid;
+    font-family:'Courier New', Courier, monospace;
+
+}
+
 div {
     background-color: aquamarine;
     border: 10px solid tomato;
     padding: 10px;
+    margin: 10px;
+    box-shadow: 10px 10px 20px;
 }
